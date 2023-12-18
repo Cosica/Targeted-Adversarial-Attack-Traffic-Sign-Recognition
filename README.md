@@ -1,6 +1,6 @@
 # Targeted-Adversarial-Attack-Traffic-Sign-Recognition
 Dataset: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
-
+Model: MobileNetV2
 The dataset has 42 labels. 
 
 In this project we will make minor changes to images to make model misclassify them to our desired label. We ensure that the difference between the new images and the original image is difficult to discern with the naked eye.
